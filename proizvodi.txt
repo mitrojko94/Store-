@@ -1,0 +1,11 @@
+mleko 60
+jaja 12
+hleb 35
+sok 110
+cokolada 100
+voda 40
+krompir 45
+jabuka 50
+luk 120
+paradajiz 60
+jogurt 70
